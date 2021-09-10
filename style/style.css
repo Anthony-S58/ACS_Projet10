@@ -1,0 +1,11 @@
+*{
+    top:0px;
+    left:0px;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
