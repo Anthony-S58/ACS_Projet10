@@ -113,6 +113,10 @@ form ion-icon{
     margin-top: 20px;
     align-self: flex-start;
 }
+.view-button:hover{
+    /* background-color: transparent; */
+    color: black;
+}
 .infos{
     color: rgb(39, 33, 33);
     display: block;
